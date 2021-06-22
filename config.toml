@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://passthepepper.ml"
+baseURL = "https://batbout.netlify.app"
 languageCode = "en-us"
 title = "Batout"
 theme = "liva-hugo"
